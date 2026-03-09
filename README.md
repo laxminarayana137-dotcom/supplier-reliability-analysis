@@ -1,5 +1,3 @@
-# supplier-reliability-analysis
-Supplier Reliability &amp; Procurement Performance Analysis using Python and Power BI
 # Supplier Reliability & Procurement Performance Analysis
 
 This project analyzes supplier performance using procurement data and builds a supplier reliability scoring model.
